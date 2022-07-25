@@ -1,0 +1,17 @@
+{
+  "name": "cypressbase",
+  "version": "1.0.0",
+  "description": "cypress Base",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.0"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
